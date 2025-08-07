@@ -1,0 +1,13 @@
+{
+  "name": "hubcloud-bypass",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun run api/index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "undici": "^6.9.0"
+  }
+}
