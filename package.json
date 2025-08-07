@@ -1,7 +1,7 @@
 {
   "name": "hubcloud-bypass",
   "version": "1.0.0",
-  "main": "api/index.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "bun run index.js"
