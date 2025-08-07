@@ -14,4 +14,4 @@ RUN bun install
 EXPOSE 8080
 
 # Run the app
-CMD ["bun", "api/index.ts"]
+CMD ["bun", "index.ts"]
