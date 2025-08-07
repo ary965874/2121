@@ -1,1 +1,2 @@
 name = "hubcloud-bypass"
+entrypoint = "index.ts"
