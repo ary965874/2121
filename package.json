@@ -1,13 +1,7 @@
 {
   "name": "hubcloud-bypass",
-  "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
-  "scripts": {
-    "start": "bun run index.js"
-  },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "undici": "^6.9.0"
+    "jsdom": "^24.0.0"
   }
 }
